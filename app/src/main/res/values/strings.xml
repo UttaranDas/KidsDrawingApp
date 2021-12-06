@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Kids Drawing App</string>
+    <string name="color_pallet">color_pallet</string>
+    <string name="brush_image">brush image</string>
+    <string name="background_image">background image</string>
+    <string name="gallery_image">gallery image</string>
+    <string name="undo_image">undo image</string>
+    <string name="redo_image">redo image</string>
+    <string name="save_image">save image</string>
+    <string name="please_wait">Please wait...</string>
 </resources>

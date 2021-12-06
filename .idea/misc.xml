@@ -5,13 +5,19 @@
       <map>
         <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/backgroung_drawing_view_layout.xml" value="0.2703125" />
         <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/ic_brush.xml" value="0.2703125" />
+        <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/ic_gallery.xml" value="0.2703125" />
+        <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/ic_redo.xml" value="0.2703125" />
+        <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/ic_save.xml" value="0.2703125" />
+        <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/ic_undo.xml" value="0.2703125" />
         <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/large.xml" value="0.2703125" />
         <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/medium.xml" value="0.2703125" />
         <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/pallet_normal.xml" value="0.2703125" />
         <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/pallet_pressed.xml" value="0.2703125" />
         <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/drawable/small.xml" value="0.2703125" />
-        <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.8" />
+        <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/layout/dialog_brush_size.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/layout/dialog_custom_progress.xml" value="0.264" />
+        <entry key="..\:/AppD/KidsDrawingApp/app/src/main/res/xml/path.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
